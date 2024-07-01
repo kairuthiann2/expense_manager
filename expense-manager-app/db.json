@@ -1,0 +1,60 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "expense_type": "card",
+      "expense_date": "2024-05-20",
+      "expense_amount": "1200",
+      "description": "Utilities bill"
+    },
+    {
+      "id": "2",
+      "expense_type": "card",
+      "expense_date": "2024-05-22",
+      "expense_amount": "2000",
+      "description": "Internet bill"
+    },
+    {
+      "id": "3",
+      "expense_type": "card",
+      "expense_date": "2024-05-24",
+      "expense_amount": "500",
+      "description": "Electricity bill"
+    },
+    {
+      "id": "4",
+      "expense_type": "card",
+      "expense_date": "2024-05-26",
+      "expense_amount": "12000",
+      "description": "Rent Bill"
+    },
+    {
+      "id": "5",
+      "expense_type": "card",
+      "expense_date": "2024-05-28",
+      "expense_amount": "200",
+      "description": "Water bill"
+    },
+    {
+      "id": "313d",
+      "expense_type": "card",
+      "expense_date": "2024-06-28",
+      "expense_amount": "2500",
+      "description": "shoes"
+    },
+    {
+      "id": "3b89",
+      "expense_type": "cash",
+      "expense_date": "2024-06-28",
+      "expense_amount": "2400",
+      "description": "Microwave"
+    },
+    {
+      "id": "6cc7",
+      "expense_type": "card",
+      "expense_date": "2024-06-27",
+      "expense_amount": "6500",
+      "description": "Rent Bill"
+    }
+  ]
+}
